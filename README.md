@@ -10,7 +10,7 @@ We implemented **Linear Regression from scratch** using **Gradient Descent** to 
 - **Website engagement does not significantly influence revenue**.
 - **Length of Membership has the strongest impact on spending**, suggesting that a **loyalty program** could drive further revenue growth.
 
-## Workflow Diagram
+## Flowchart
 ![Workflow](https://github.com/eshitakundu/E-Commerce-Customer-Spending-Analysis/blob/main/Workflow%20Diagram.png)  
 
 ## How to Run the Project
