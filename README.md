@@ -1,4 +1,4 @@
-# Linear Regression: E-Commerce Customer Spending Analysis
+# E-Commerce Customer Spending Analysis
 
 ## Project Overview
 This project analyzes customer behavior to determine whether an **E-commerce company** should focus on **improving their mobile app or website** to increase revenue.
@@ -8,16 +8,16 @@ We implemented **Linear Regression from scratch** using **Gradient Descent** to 
 ## Key Findings
 - **Time on App** has a **strong positive impact on spending**.
 - **Website engagement does not significantly influence revenue**.
-- **Length of Membership is the biggest driver of spending** → Suggests implementing a **loyalty program**.
+- **Length of Membership has the strongest impact on spending**, suggesting that a **loyalty program** could drive further revenue growth.
 
 ## Workflow Diagram
-![Workflow](Workflow Diagram.png)  
+![Workflow](https://github.com/eshitakundu/E-Commerce-Customer-Spending-Analysis/blob/main/Workflow%20Diagram.png)  
 
 ## How to Run the Project
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/eshitakundu/ecommerce-linear-regression.git
-cd ecommerce-linear-regression
+git clone https://github.com/eshitakundu/E-Commerce-Customer-Spending-Analysis.git
+cd E-Commerce-Customer-Spending-Analysis
 ```
 
 ### **Install Dependencies**
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 ### **Run the Jupyter Notebook**
-Open `Ecommerce_Linear_Regression.ipynb` in Jupyter Notebook and run the cells step by step.
+Open `E-Commerce-Customer-Spending-Analysis.ipynb` in Jupyter Notebook and run the cells step by step.
 
 ## Model Performance
 | **Metric** | **Value** |
@@ -46,7 +46,7 @@ Open `Ecommerce_Linear_Regression.ipynb` in Jupyter Notebook and run the cells s
 
 ## Business Recommendations
 - **Invest in Mobile App Improvements** → Enhancing the app UI/UX and introducing new features may lead to **higher spending**.
-- **Avoid heavy website investment** → Since `Time on Website` has a **low impact**, focusing on the app is a better strategy.
+- **Minimize website investment unless necessary** → Since `Time on Website` has a **low impact** on revenue, the company should prioritize mobile app enhancements for better ROI.
 - **Implement a Customer Loyalty Program** → Since long-term members spend the most, offering **exclusive discounts or rewards** could further increase revenue.
 
 ## 📜 Licensing & Acknowledgments
@@ -54,4 +54,4 @@ Open `Ecommerce_Linear_Regression.ipynb` in Jupyter Notebook and run the cells s
 
 ---
 
-**Check out the full project notebook for implementation details.**
+**Read the detailed case study on Medium: [blog](link)**
